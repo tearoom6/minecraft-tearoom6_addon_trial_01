@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "tearoom6 AddOn Trial 01",
+    "uuid": "27db3770-457f-3f7e-b102-13c24dea2cae",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      30
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "618ab626-df96-35aa-9b63-c787281188c2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "t-murota, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}
