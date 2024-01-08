@@ -32,6 +32,10 @@
     "en_us": {
       "tile.tearoom6_addon_trial_01:angel_rock.name": "Angel Rock",
       "item.tearoom6_addon_trial_01:endersword.name": "Endersword"
+    },
+    "ja_jp": {
+      "tile.tearoom6_addon_trial_01:angel_rock.name": "エンジェルロック",
+      "item.tearoom6_addon_trial_01:endersword.name": "エンダーソード"
     }
   },
   "foldersRoot": {

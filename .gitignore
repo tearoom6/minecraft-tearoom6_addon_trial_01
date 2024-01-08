@@ -23,6 +23,7 @@
 #===============================
 /jdk/
 /logs
+**/workspaceBackups/
 
 #FILES FOR MCREATOR EXPORTS
 #===============================
