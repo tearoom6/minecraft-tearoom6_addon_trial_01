@@ -13,6 +13,11 @@
           "damage": 1
         }
       },
+      "tearoom6_addon_trial_01:endersword": {
+        "minecraft:attack": {
+          "damage": 1
+        }
+      },
       "minecraft:add_bad_omen": {
         "minecraft:spell_effects": {
           "add_effects": [
@@ -181,6 +186,19 @@
               ]
             },
             "event": "minecraft:event_normal_player"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "tearoom6_addon_trial_01:endersword"
+                }
+              ]
+            },
+            "event": "tearoom6_addon_trial_01:endersword"
           }
         ]
       }
@@ -193,7 +211,16 @@
           ]
         },
         "remove": {
-          "component_groups": []
+          "component_groups": [
+            "tearoom6_addon_trial_01:endersword"
+          ]
+        }
+      },
+      "tearoom6_addon_trial_01:endersword": {
+        "add": {
+          "component_groups": [
+            "tearoom6_addon_trial_01:endersword"
+          ]
         }
       },
       "minecraft:gain_bad_omen": {

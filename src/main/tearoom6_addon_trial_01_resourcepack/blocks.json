@@ -1,3 +1,14 @@
 {
-  "format_version": "1.16.100"
+  "format_version": "1.16.100",
+  "tearoom6_addon_trial_01:angel_rock": {
+    "textures": {
+      "up": "tearoom6_addon_trial_01_angel_rock_up",
+      "down": "tearoom6_addon_trial_01_angel_rock_down",
+      "south": "tearoom6_addon_trial_01_angel_rock_south",
+      "north": "tearoom6_addon_trial_01_angel_rock_north",
+      "west": "tearoom6_addon_trial_01_angel_rock_west",
+      "east": "tearoom6_addon_trial_01_angel_rock_east"
+    },
+    "sound": "gravel"
+  }
 }

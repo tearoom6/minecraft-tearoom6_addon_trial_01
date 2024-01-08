@@ -12,25 +12,12 @@
           "src/main/tearoom6_addon_trial_01_resourcepack/items/endersword.json"
         ]
       }
-    },
-    {
-      "name": "AngelRock",
-      "type": "block",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "angel_rock",
-      "metadata": {
-        "files": [
-          "src/main/tearoom6_addon_trial_01_behaviourpack/blocks/angel_rock.json"
-        ]
-      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "tile.tearoom6_addon_trial_01:angel_rock.name": "Angel Rock",
       "item.tearoom6_addon_trial_01:endersword.name": "Endersword"
     }
   },
