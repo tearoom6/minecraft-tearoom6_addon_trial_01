@@ -21,7 +21,8 @@
       "registry_name": "angel_rock",
       "metadata": {
         "files": [
-          "src/main/tearoom6_addon_trial_01_behaviourpack/blocks/angel_rock.json"
+          "src/main/tearoom6_addon_trial_01_behaviourpack/blocks/angel_rock.json",
+          "src/main/tearoom6_addon_trial_01_behaviourpack/loot_tables/blocks/tearoom6_addon_trial_01_angel_rock.json"
         ]
       }
     }
