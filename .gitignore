@@ -24,6 +24,10 @@
 /jdk/
 /logs
 
+#FILES FOR MCREATOR EXPORTS
+#===============================
+*.mcaddon
+
 #SYSTEM AND JAVA FILES
 #=====================
 Thumbs.db
