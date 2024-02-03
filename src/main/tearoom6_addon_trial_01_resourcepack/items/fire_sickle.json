@@ -1,0 +1,15 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "tearoom6_addon_trial_01:fire_sickle",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "fire_sickle",
+      "minecraft:render_offsets": "apple",
+      "minecraft:creative_category": "Items"
+    }
+  }
+}

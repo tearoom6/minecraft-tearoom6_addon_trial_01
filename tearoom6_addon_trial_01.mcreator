@@ -3,6 +3,7 @@
     {
       "name": "Endersword",
       "type": "item",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endersword",
@@ -25,6 +26,20 @@
           "src/main/tearoom6_addon_trial_01_behaviourpack/loot_tables/blocks/tearoom6_addon_trial_01_angel_rock.json"
         ]
       }
+    },
+    {
+      "name": "FireSickle",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire_sickle",
+      "metadata": {
+        "files": [
+          "src/main/tearoom6_addon_trial_01_behaviourpack/items/fire_sickle.json",
+          "src/main/tearoom6_addon_trial_01_resourcepack/items/fire_sickle.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -32,10 +47,12 @@
   "language_map": {
     "en_us": {
       "tile.tearoom6_addon_trial_01:angel_rock.name": "Angel Rock",
+      "item.tearoom6_addon_trial_01:fire_sickle.name": "Fire Sickle",
       "item.tearoom6_addon_trial_01:endersword.name": "Endersword"
     },
     "ja_jp": {
       "tile.tearoom6_addon_trial_01:angel_rock.name": "エンジェルロック",
+      "item.tearoom6_addon_trial_01:fire_sickle.name": "ファイアのカマ",
       "item.tearoom6_addon_trial_01:endersword.name": "エンダーソード"
     }
   },
