@@ -40,17 +40,34 @@
           "src/main/tearoom6_addon_trial_01_resourcepack/items/fire_sickle.json"
         ]
       }
+    },
+    {
+      "name": "EnderCreeper",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ender_creeper",
+      "metadata": {
+        "files": [
+          "src/main/tearoom6_addon_trial_01_behaviourpack/spawn_rules/ender_creeper.json",
+          "src/main/tearoom6_addon_trial_01_resourcepack/entity/ender_creeper.entity.json",
+          "src/main/tearoom6_addon_trial_01_behaviourpack/loot_tables/entities/tearoom6_addon_trial_01_ender_creeper.json",
+          "src/main/tearoom6_addon_trial_01_behaviourpack/entities/ender_creeper.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.spawn_egg.entity.tearoom6_addon_trial_01:ender_creeper.name": "Ender Creeper Spawn Egg",
       "tile.tearoom6_addon_trial_01:angel_rock.name": "Angel Rock",
       "item.tearoom6_addon_trial_01:fire_sickle.name": "Fire Sickle",
       "item.tearoom6_addon_trial_01:endersword.name": "Endersword"
     },
     "ja_jp": {
+      "item.spawn_egg.entity.tearoom6_addon_trial_01:ender_creeper.name": "エンダークリーパーのスポーンエッグ",
       "tile.tearoom6_addon_trial_01:angel_rock.name": "エンジェルロック",
       "item.tearoom6_addon_trial_01:fire_sickle.name": "ファイアのカマ",
       "item.tearoom6_addon_trial_01:endersword.name": "エンダーソード"
