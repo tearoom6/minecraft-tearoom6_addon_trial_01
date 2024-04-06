@@ -23,6 +23,11 @@
           "damage": 100
         }
       },
+      "tearoom6_addon_trial_01:warden_sword": {
+        "minecraft:attack": {
+          "damage": 101
+        }
+      },
       "minecraft:add_bad_omen": {
         "minecraft:spell_effects": {
           "add_effects": [
@@ -217,6 +222,19 @@
               ]
             },
             "event": "tearoom6_addon_trial_01:fire_sickle"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "tearoom6_addon_trial_01:warden_sword"
+                }
+              ]
+            },
+            "event": "tearoom6_addon_trial_01:warden_sword"
           }
         ]
       }
@@ -231,7 +249,8 @@
         "remove": {
           "component_groups": [
             "tearoom6_addon_trial_01:endersword",
-            "tearoom6_addon_trial_01:fire_sickle"
+            "tearoom6_addon_trial_01:fire_sickle",
+            "tearoom6_addon_trial_01:warden_sword"
           ]
         }
       },
@@ -246,6 +265,13 @@
         "add": {
           "component_groups": [
             "tearoom6_addon_trial_01:fire_sickle"
+          ]
+        }
+      },
+      "tearoom6_addon_trial_01:warden_sword": {
+        "add": {
+          "component_groups": [
+            "tearoom6_addon_trial_01:warden_sword"
           ]
         }
       },
