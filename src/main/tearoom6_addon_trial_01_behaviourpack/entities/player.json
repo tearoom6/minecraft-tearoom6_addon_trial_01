@@ -23,6 +23,11 @@
           "damage": 100
         }
       },
+      "tearoom6_addon_trial_01:jewel_sword": {
+        "minecraft:attack": {
+          "damage": 100
+        }
+      },
       "tearoom6_addon_trial_01:warden_sword": {
         "minecraft:attack": {
           "damage": 101
@@ -235,6 +240,19 @@
                   "test": "has_equipment",
                   "subject": "self",
                   "domain": "hand",
+                  "value": "tearoom6_addon_trial_01:jewel_sword"
+                }
+              ]
+            },
+            "event": "tearoom6_addon_trial_01:jewel_sword"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
                   "value": "tearoom6_addon_trial_01:warden_sword"
                 }
               ]
@@ -268,6 +286,7 @@
           "component_groups": [
             "tearoom6_addon_trial_01:endersword",
             "tearoom6_addon_trial_01:fire_sickle",
+            "tearoom6_addon_trial_01:jewel_sword",
             "tearoom6_addon_trial_01:warden_sword",
             "tearoom6_addon_trial_01:warden_chest_plate"
           ]
@@ -284,6 +303,13 @@
         "add": {
           "component_groups": [
             "tearoom6_addon_trial_01:fire_sickle"
+          ]
+        }
+      },
+      "tearoom6_addon_trial_01:jewel_sword": {
+        "add": {
+          "component_groups": [
+            "tearoom6_addon_trial_01:jewel_sword"
           ]
         }
       },
