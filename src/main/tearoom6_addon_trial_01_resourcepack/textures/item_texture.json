@@ -11,6 +11,9 @@
     "warden_chest_plate": {
       "textures": "textures/items/wardenchestplate"
     },
+    "jewel_sword": {
+      "textures": "textures/items/jewelsword"
+    },
     "warden_sword": {
       "textures": "textures/items/wardensword"
     }
