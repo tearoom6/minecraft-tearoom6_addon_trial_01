@@ -8,6 +8,9 @@
     "endersword": {
       "textures": "textures/items/endersword"
     },
+    "warden_chest_plate": {
+      "textures": "textures/items/wardenchestplate"
+    },
     "warden_sword": {
       "textures": "textures/items/wardensword"
     }

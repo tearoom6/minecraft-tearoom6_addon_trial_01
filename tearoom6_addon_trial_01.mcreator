@@ -67,6 +67,19 @@
           "src/main/tearoom6_addon_trial_01_resourcepack/items/warden_sword.json"
         ]
       }
+    },
+    {
+      "name": "WardenChestPlate",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warden_chest_plate",
+      "metadata": {
+        "files": [
+          "src/main/tearoom6_addon_trial_01_behaviourpack/items/warden_chest_plate.json",
+          "src/main/tearoom6_addon_trial_01_resourcepack/items/warden_chest_plate.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -78,6 +91,7 @@
       "tile.tearoom6_addon_trial_01:angel_rock.name": "Angel Rock",
       "item.tearoom6_addon_trial_01:fire_sickle.name": "Fire Sickle",
       "item.tearoom6_addon_trial_01:warden_sword.name": "Warden Sword",
+      "item.tearoom6_addon_trial_01:warden_chest_plate.name": "Warden Chest Plate",
       "item.tearoom6_addon_trial_01:endersword.name": "Endersword"
     },
     "ja_jp": {
@@ -85,6 +99,7 @@
       "tile.tearoom6_addon_trial_01:angel_rock.name": "エンジェルロック",
       "item.tearoom6_addon_trial_01:fire_sickle.name": "ファイアのカマ",
       "item.tearoom6_addon_trial_01:warden_sword.name": "ウォーデンソード",
+      "item.tearoom6_addon_trial_01:warden_chest_plate.name": "Warden Chest Plate",
       "item.tearoom6_addon_trial_01:endersword.name": "エンダーソード"
     }
   },
