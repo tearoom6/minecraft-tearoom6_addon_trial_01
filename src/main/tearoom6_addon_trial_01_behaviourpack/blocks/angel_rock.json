@@ -7,7 +7,6 @@
       "register_to_creative_menu ": true
     },
     "components": {
-      "minecraft:loot": "loot_tables/blocks/tearoom6_addon_trial_01_angel_rock.json",
       "minecraft:block_light_emission": 0,
       "minecraft:destroy_time": 1,
       "minecraft:explosion_resistance": 9.5,

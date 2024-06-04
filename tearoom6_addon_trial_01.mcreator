@@ -22,8 +22,7 @@
       "registry_name": "angel_rock",
       "metadata": {
         "files": [
-          "src/main/tearoom6_addon_trial_01_behaviourpack/blocks/angel_rock.json",
-          "src/main/tearoom6_addon_trial_01_behaviourpack/loot_tables/blocks/tearoom6_addon_trial_01_angel_rock.json"
+          "src/main/tearoom6_addon_trial_01_behaviourpack/blocks/angel_rock.json"
         ]
       }
     },
@@ -72,6 +71,7 @@
   ],
   "variable_elements": [],
   "sound_elements": [],
+  "tag_elements": {},
   "language_map": {
     "en_us": {
       "item.spawn_egg.entity.tearoom6_addon_trial_01:ender_creeper.name": "Ender Creeper Spawn Egg",
@@ -99,7 +99,6 @@
     "author": "t-murota, MCreator",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
-    "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],
@@ -107,8 +106,7 @@
     "mcreatorDependencies": [],
     "currentGenerator": "addon-1.20.x",
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
-    "modElementsPackage": "net.mcreator.tearoomaddontrial",
-    "lockBaseModFiles": false
+    "modElementsPackage": "net.mcreator.tearoomaddontrial"
   },
-  "mcreatorVersion": 202300452316
+  "mcreatorVersion": 202400118518
 }

@@ -28,6 +28,11 @@
           "damage": 101
         }
       },
+      "tearoom6_addon_trial_01:warden_chest_plate": {
+        "minecraft:attack": {
+          "damage": 40
+        }
+      },
       "minecraft:add_bad_omen": {
         "minecraft:spell_effects": {
           "add_effects": [
@@ -235,6 +240,19 @@
               ]
             },
             "event": "tearoom6_addon_trial_01:warden_sword"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "tearoom6_addon_trial_01:warden_chest_plate"
+                }
+              ]
+            },
+            "event": "tearoom6_addon_trial_01:warden_chest_plate"
           }
         ]
       }
@@ -250,7 +268,8 @@
           "component_groups": [
             "tearoom6_addon_trial_01:endersword",
             "tearoom6_addon_trial_01:fire_sickle",
-            "tearoom6_addon_trial_01:warden_sword"
+            "tearoom6_addon_trial_01:warden_sword",
+            "tearoom6_addon_trial_01:warden_chest_plate"
           ]
         }
       },
@@ -272,6 +291,13 @@
         "add": {
           "component_groups": [
             "tearoom6_addon_trial_01:warden_sword"
+          ]
+        }
+      },
+      "tearoom6_addon_trial_01:warden_chest_plate": {
+        "add": {
+          "component_groups": [
+            "tearoom6_addon_trial_01:warden_chest_plate"
           ]
         }
       },
