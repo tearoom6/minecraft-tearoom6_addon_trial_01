@@ -91,6 +91,19 @@
           "src/main/tearoom6_addon_trial_01_behaviourpack/items/jewel_sword.json"
         ]
       }
+    },
+    {
+      "name": "SculkSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sculk_sword",
+      "metadata": {
+        "files": [
+          "src/main/tearoom6_addon_trial_01_behaviourpack/items/sculk_sword.json",
+          "src/main/tearoom6_addon_trial_01_resourcepack/items/sculk_sword.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -100,6 +113,7 @@
   "language_map": {
     "en_us": {
       "item.spawn_egg.entity.tearoom6_addon_trial_01:ender_creeper.name": "Ender Creeper Spawn Egg",
+      "item.tearoom6_addon_trial_01:sculk_sword.name": "Sculk Sword",
       "tile.tearoom6_addon_trial_01:angel_rock.name": "Angel Rock",
       "item.tearoom6_addon_trial_01:fire_sickle.name": "Fire Sickle",
       "item.tearoom6_addon_trial_01:warden_sword.name": "Warden Sword",
@@ -109,6 +123,7 @@
     },
     "ja_jp": {
       "item.spawn_egg.entity.tearoom6_addon_trial_01:ender_creeper.name": "エンダークリーパーのスポーンエッグ",
+      "item.tearoom6_addon_trial_01:sculk_sword.name": "スカルクソード",
       "tile.tearoom6_addon_trial_01:angel_rock.name": "エンジェルロック",
       "item.tearoom6_addon_trial_01:fire_sickle.name": "ファイアのカマ",
       "item.tearoom6_addon_trial_01:warden_sword.name": "ウォーデンソード",

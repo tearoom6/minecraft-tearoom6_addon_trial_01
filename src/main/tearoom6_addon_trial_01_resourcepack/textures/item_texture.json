@@ -16,6 +16,9 @@
     },
     "warden_sword": {
       "textures": "textures/items/wardensword"
+    },
+    "sculk_sword": {
+      "textures": "textures/items/sculksword"
     }
   }
 }
