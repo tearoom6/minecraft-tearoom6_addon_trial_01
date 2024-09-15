@@ -3,14 +3,13 @@
     {
       "name": "Endersword",
       "type": "item",
-      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "endersword",
       "metadata": {
         "files": [
-          "src/main/tearoom6_addon_trial_01_behaviourpack/items/endersword.json",
-          "src/main/tearoom6_addon_trial_01_resourcepack/items/endersword.json"
+          "src/main/tearoom6_addon_trial_01_resourcepack/items/endersword.json",
+          "src/main/tearoom6_addon_trial_01_behaviourpack/items/endersword.json"
         ]
       }
     },
@@ -29,14 +28,13 @@
     {
       "name": "FireSickle",
       "type": "item",
-      "sortid": 1,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_sickle",
       "metadata": {
         "files": [
-          "src/main/tearoom6_addon_trial_01_behaviourpack/items/fire_sickle.json",
-          "src/main/tearoom6_addon_trial_01_resourcepack/items/fire_sickle.json"
+          "src/main/tearoom6_addon_trial_01_resourcepack/items/fire_sickle.json",
+          "src/main/tearoom6_addon_trial_01_behaviourpack/items/fire_sickle.json"
         ]
       }
     },
@@ -48,10 +46,10 @@
       "registry_name": "ender_creeper",
       "metadata": {
         "files": [
+          "src/main/tearoom6_addon_trial_01_behaviourpack/entities/ender_creeper.json",
           "src/main/tearoom6_addon_trial_01_behaviourpack/spawn_rules/ender_creeper.json",
           "src/main/tearoom6_addon_trial_01_resourcepack/entity/ender_creeper.entity.json",
-          "src/main/tearoom6_addon_trial_01_behaviourpack/loot_tables/entities/tearoom6_addon_trial_01_ender_creeper.json",
-          "src/main/tearoom6_addon_trial_01_behaviourpack/entities/ender_creeper.json"
+          "src/main/tearoom6_addon_trial_01_behaviourpack/loot_tables/entities/tearoom6_addon_trial_01_ender_creeper.json"
         ]
       }
     },
@@ -63,8 +61,8 @@
       "registry_name": "warden_sword",
       "metadata": {
         "files": [
-          "src/main/tearoom6_addon_trial_01_behaviourpack/items/warden_sword.json",
-          "src/main/tearoom6_addon_trial_01_resourcepack/items/warden_sword.json"
+          "src/main/tearoom6_addon_trial_01_resourcepack/items/warden_sword.json",
+          "src/main/tearoom6_addon_trial_01_behaviourpack/items/warden_sword.json"
         ]
       }
     },
@@ -98,6 +96,7 @@
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
+  "tab_element_order": {},
   "language_map": {
     "en_us": {
       "item.spawn_egg.entity.tearoom6_addon_trial_01:ender_creeper.name": "Ender Creeper Spawn Egg",
@@ -138,5 +137,5 @@
     "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.tearoomaddontrial"
   },
-  "mcreatorVersion": 202400118518
+  "mcreatorVersion": 202400232117
 }
