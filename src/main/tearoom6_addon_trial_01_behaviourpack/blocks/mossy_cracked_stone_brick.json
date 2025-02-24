@@ -1,0 +1,20 @@
+{
+  "format_version": "1.17.3",
+  "minecraft:block": {
+    "description": {
+      "identifier": "tearoom6_addon_trial_01:mossy_cracked_stone_brick",
+      "is_experimental": false,
+      "register_to_creative_menu ": true
+    },
+    "components": {
+      "minecraft:block_light_emission": 0.6666666667,
+      "minecraft:destroy_time": 2.5,
+      "minecraft:explosion_resistance": 10,
+      "minecraft:friction": 0.6,
+      "minecraft:flammable": {
+        "flame_odds": 0,
+        "burn_odds": 0
+      }
+    }
+  }
+}

@@ -117,6 +117,18 @@
           "src/main/tearoom6_addon_trial_01_resourcepack/items/ghost_knight_sword.json"
         ]
       }
+    },
+    {
+      "name": "MossyCrackedStoneBrick",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mossy_cracked_stone_brick",
+      "metadata": {
+        "files": [
+          "src/main/tearoom6_addon_trial_01_behaviourpack/blocks/mossy_cracked_stone_brick.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -126,6 +138,7 @@
   "language_map": {
     "en_us": {
       "item.spawn_egg.entity.tearoom6_addon_trial_01:ender_creeper.name": "Ender Creeper Spawn Egg",
+      "tile.tearoom6_addon_trial_01:mossy_cracked_stone_brick.name": "Mossy Cracked Stone Brick",
       "item.tearoom6_addon_trial_01:sculk_sword.name": "Sculk Sword",
       "tile.tearoom6_addon_trial_01:angel_rock.name": "Angel Rock",
       "item.tearoom6_addon_trial_01:fire_sickle.name": "Fire Sickle",
@@ -137,6 +150,7 @@
     },
     "ja_jp": {
       "item.spawn_egg.entity.tearoom6_addon_trial_01:ender_creeper.name": "エンダークリーパーのスポーンエッグ",
+      "tile.tearoom6_addon_trial_01:mossy_cracked_stone_brick.name": "苔むしたひび割れた石レンガ",
       "item.tearoom6_addon_trial_01:sculk_sword.name": "スカルクソード",
       "tile.tearoom6_addon_trial_01:angel_rock.name": "エンジェルロック",
       "item.tearoom6_addon_trial_01:fire_sickle.name": "ファイアのカマ",

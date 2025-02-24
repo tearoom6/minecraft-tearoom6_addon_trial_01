@@ -10,5 +10,16 @@
       "east": "tearoom6_addon_trial_01_angel_rock_east"
     },
     "sound": "gravel"
+  },
+  "tearoom6_addon_trial_01:mossy_cracked_stone_brick": {
+    "textures": {
+      "up": "tearoom6_addon_trial_01_mossy_cracked_stone_brick_up",
+      "down": "tearoom6_addon_trial_01_mossy_cracked_stone_brick_down",
+      "south": "tearoom6_addon_trial_01_mossy_cracked_stone_brick_south",
+      "north": "tearoom6_addon_trial_01_mossy_cracked_stone_brick_north",
+      "west": "tearoom6_addon_trial_01_mossy_cracked_stone_brick_west",
+      "east": "tearoom6_addon_trial_01_mossy_cracked_stone_brick_east"
+    },
+    "sound": "gravel"
   }
 }
