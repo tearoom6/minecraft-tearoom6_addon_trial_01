@@ -19,6 +19,9 @@
     },
     "sculk_sword": {
       "textures": "textures/items/sculksword"
+    },
+    "ghost_knight_sword": {
+      "textures": "textures/items/ghostknightsword"
     }
   }
 }
