@@ -63,6 +63,36 @@
       "textures": [
         "textures/blocks/mossycrackedstonebrick03"
       ]
+    },
+    "tearoom6_addon_trial_01_legend_core_up": {
+      "textures": [
+        "textures/blocks/legendcore03"
+      ]
+    },
+    "tearoom6_addon_trial_01_legend_core_down": {
+      "textures": [
+        "textures/blocks/legendcore03"
+      ]
+    },
+    "tearoom6_addon_trial_01_legend_core_south": {
+      "textures": [
+        "textures/blocks/legendcore01"
+      ]
+    },
+    "tearoom6_addon_trial_01_legend_core_north": {
+      "textures": [
+        "textures/blocks/legendcore01"
+      ]
+    },
+    "tearoom6_addon_trial_01_legend_core_west": {
+      "textures": [
+        "textures/blocks/legendcore02"
+      ]
+    },
+    "tearoom6_addon_trial_01_legend_core_east": {
+      "textures": [
+        "textures/blocks/legendcore02"
+      ]
     }
   }
 }

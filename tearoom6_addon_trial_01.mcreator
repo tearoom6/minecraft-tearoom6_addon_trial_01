@@ -129,6 +129,18 @@
           "src/main/tearoom6_addon_trial_01_behaviourpack/blocks/mossy_cracked_stone_brick.json"
         ]
       }
+    },
+    {
+      "name": "LegendCore",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "legend_core",
+      "metadata": {
+        "files": [
+          "src/main/tearoom6_addon_trial_01_behaviourpack/blocks/legend_core.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -146,6 +158,7 @@
       "item.tearoom6_addon_trial_01:jewel_sword.name": "Jewel Sword",
       "item.tearoom6_addon_trial_01:warden_chest_plate.name": "Warden Chest Plate",
       "item.tearoom6_addon_trial_01:ghost_knight_sword.name": "Ghost Knight Sword",
+      "tile.tearoom6_addon_trial_01:legend_core.name": "Legend Core",
       "item.tearoom6_addon_trial_01:endersword.name": "Endersword"
     },
     "ja_jp": {
@@ -158,6 +171,7 @@
       "item.tearoom6_addon_trial_01:jewel_sword.name": "ジュエルソード",
       "item.tearoom6_addon_trial_01:warden_chest_plate.name": "ウォーデンチェストプレート",
       "item.tearoom6_addon_trial_01:ghost_knight_sword.name": "ゴーストナイトソード",
+      "tile.tearoom6_addon_trial_01:legend_core.name": "レジェンドコア",
       "item.tearoom6_addon_trial_01:endersword.name": "エンダーソード"
     }
   },
